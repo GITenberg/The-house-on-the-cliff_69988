@@ -9,12 +9,17 @@ contributor:
     gutenberg_agent_id: '7671'
     url: http://www.gutenberg.org/2009/agents/7671
     wikipedia: https://en.wikipedia.org/wiki/Walter_S._Rogers
+covers:
+- cover_type: archival
+  image_path: 69988-h/images/cover.jpg
 creator:
   author:
     agent_name: Dixon, Franklin W.
     gutenberg_agent_id: '55530'
     url: http://www.gutenberg.org/2009/agents/55530
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69988#The-house-on-the-cliff
 gutenberg_issued: '2023-02-08'
 identifiers:
   gutenberg: '69988'
